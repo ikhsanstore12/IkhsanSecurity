@@ -19,7 +19,7 @@ npm init -y
 npm install node-telegram-bot-api
 
 # Minta token
-echo -n "Masukkan TOKEN BOT Telegram: "
+echo -n "8310449737:AAHC90hL6lkxvW3mIT2YQrii0Bnj4WvZdAI"
 read token
 
 # Simpan token ke config.json
